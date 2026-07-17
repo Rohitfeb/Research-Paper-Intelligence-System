@@ -53,18 +53,33 @@ No manual dataset download is required.
 - Hugging Face Transformers
 - Jupyter Notebook
 
-
 ## 📂 Project Structure
 
+```text
 Research-Paper-Intelligence-System/
 │
-├── Research_Paper_Intelligence_System.ipynb
-├── README.md
-├── requirements.txt
-├── data/
-│   └── research_papers.csv
-├── screenshots/
-└── .gitignore
+├── 📓 Research_Paper_Intelligence_System.ipynb
+│   └── Complete Jupyter Notebook containing data loading,
+│       preprocessing, semantic search, FAISS indexing,
+│       keyword extraction, research paper comparison,
+│       and LLM-powered question answering.
+│
+├── 📄 README.md
+│   └── Project documentation, setup instructions,
+│       features, and usage guide.
+│
+├── 📦 requirements.txt
+│   └── List of all Python libraries required
+│       to run the project.
+│
+├── 🚫 .gitignore
+│   └── Specifies files and folders that Git
+│       should ignore (cache, virtual environments,
+│       secrets, etc.).
+│
+└── 📜 LICENSE
+    └── MIT License describing the permissions
+        for using and distributing this project.
 ```
 
 ---
