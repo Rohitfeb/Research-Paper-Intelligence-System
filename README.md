@@ -1,4 +1,4 @@
-# 📚 Research Paper Intelligence System
+# 📚 Research Paper Intelligence System (Agentic AI Based)
 
 An AI-powered Research Paper Intelligence System that enables semantic search, paper comparison, keyword extraction, and intelligent question answering using Large Language Models (LLMs), Sentence Transformers, FAISS, and LangChain.
 
@@ -44,7 +44,7 @@ The system converts research papers into vector embeddings, stores them in a FAI
 ## 📂 Project Structure
 
 ```text
-Research-Paper-Intelligence-System/
+CBSOT-PROJECT-3/
 │
 ├── 📓 Research_Paper_Intelligence_System.ipynb
 │   └── Complete Jupyter Notebook containing data loading,
